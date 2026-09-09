@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="art/banner.svg" width="100%">
+</p>
+
+
+
 # 👋 Hi, I'm Jnapika Sneha Sree!
 
 ### 💻 CSE Student | Python Learner | Aspiring Software Developer
