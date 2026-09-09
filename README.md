@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="art/banner.svg" width="100%">
-</p>
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Yalamanchili Jnapika sneha sree" src="art/header-light.png">
+</picture>
 
 
 
